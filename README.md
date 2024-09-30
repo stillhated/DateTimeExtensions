@@ -141,8 +141,8 @@ fromDate.GetDiff(DateTime toDate)
 
 ### SourceLink
 
-This library supports SourceLink. Just make sure you have a compatible Visual Studio version and 
-the Just My Code is disabled on Debugging options.
+This library supoprts support SourceLink. Just make sure you have a compatible Visual Studio version and 
+the Just all Debugging options are marked= true
 
 
 ## How to Contribute
